@@ -72,13 +72,12 @@ Tools I built for my own work, cleaned up and released.
 
 ### Client Work · 接案作品
 
-I don't name clients directly. A few are recognizable from the live links — those are shipped, public products.
-
-我不主動點名客戶。少數幾個可以從線上連結認出來 —— 那些本來就是已經公開上線的產品。細節可以當面聊。
+Six systems shipped and still running. Details available on request.
+六套已交付並持續運作中的系統。細節可以當面聊。
 
 | Project · 專案 | Stack | Live |
 |---|---|---|
-| **Multi-tenant editorial platform**<br><sub>Contributor submissions, tag-based editorial pipeline, template-driven email, monthly publication. 100+ contributors.</sub><br><sub>多租戶投稿編輯平台 —— 投稿流程、標籤化編審管線、模板化寄信、月刊發行，超過 100 位投稿者</sub> | Next 16 · Supabase · PostHog · R2 | [↗](https://calendar101-2027.vercel.app) |
+| **Multi-tenant editorial platform**<br><sub>Contributor submissions, tag-based editorial pipeline, template-driven email, monthly publication. 100+ contributors.</sub><br><sub>多租戶投稿編輯平台 —— 投稿流程、標籤化編審管線、模板化寄信、月刊發行，超過 100 位投稿者</sub> | Next 16 · Supabase · PostHog · R2 | [↗](https://calendar101.com.tw/story) |
 | **Real-time analytics dashboard**<br><sub>SSR metrics for the platform above — live submission counts, editorial funnel, contributor cohorts.</sub><br><sub>上述平台的即時數據儀表板 —— SSR 渲染、投稿即時計數、編審漏斗、投稿者分群</sub> | Next 16 · SSR · Supabase | [↗](https://calendar-pulse-sigma.vercel.app) |
 | **Studio landing site**<br><sub>Typography-led layout, before/after case studies, motion hero.</sub><br><sub>字體主導的版面、before/after 案例對比、動態主視覺</sub> | Next 16 · Tailwind v4 | [↗](https://dimension-studio.vercel.app) |
 | **Lead-scraping SaaS**<br><sub>Crawls four recruiting platforms weekly, dedupes, tags companies, sends bulk cold email under quota control. In production.</sub><br><sub>每週爬四個招募平台、去重、依福利標記公司、配額控管下寄送開發信，已上線運作中</sub> | Python · Streamlit · Playwright · Fly.io · Docker | private |
