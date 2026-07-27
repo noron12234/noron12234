@@ -5,11 +5,20 @@ Full-stack partner at **[Dimension Studio](https://dimension-studio.vercel.app)*
 
 ---
 
+#### Open source
+
+| Repo | What it is |
+|---|---|
+| **[freelance-agent-skills](https://github.com/noron12234/freelance-agent-skills)** | 11 Claude Code skills automating the non-coding 60% of solo consulting — proposals, meeting-to-spec, launch analytics, post-launch monitoring |
+| **[wwi](https://github.com/noron12234/wwi)** | Browse, search, summarize and resume Claude Code sessions across every project and terminal window |
+| **[backup-kit](https://github.com/noron12234/backup-kit)** | Two-tier backup for Supabase / Fly.io / Insforge apps — GitHub Actions + Backblaze B2, ~$0.50/month, with tested restore scripts |
+| **[dl-capture](https://github.com/noron12234/dl-capture)** | macOS: put a download's file path *and* its source URL on the clipboard, automatically |
+
 #### Now
 
-- Working on AI infra at Agora
+- AI infra at Agora — Kubernetes, GPU observability, TEN Framework
 - Maintaining 5 client platforms in production
-- Preparing first contributions to [TEN Framework](https://github.com/TEN-framework/ten-framework)
+- Working toward contributions to [TEN Framework](https://github.com/TEN-framework/ten-framework)
 
 #### Shipped
 
@@ -28,7 +37,7 @@ Detailed writeups → **[github.com/noron12234/works](https://github.com/noron12
 
 #### Stack
 
-Next.js · React · TypeScript · Python · Playwright · Supabase · PostgreSQL · Fly.io · Vercel · Docker · Streamlit · PostHog
+Next.js · React · TypeScript · Python · Playwright · Supabase · PostgreSQL · Fly.io · Vercel · Docker · Streamlit · PostHog · Kubernetes
 
 #### Contact
 
